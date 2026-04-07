@@ -38,10 +38,10 @@ header h1 {
   display: none;
 }
 .logo {
-  height: 28px;
+  height: 38px;
   width: auto;
   margin-right: 1.2rem;
-  max-width: 120px;
+  max-width: 140px;
 }
 nav a {
   color: var(--cor-texto);
